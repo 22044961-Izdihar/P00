@@ -24,7 +24,7 @@ public class CalculatorTest {
 	public void tearDown() throws Exception {
 	}
 
-	@Test //test
+	@Test 
 	public void testAdd() {
 		//fail("Not yet implemented");
 		int a = 1234;
